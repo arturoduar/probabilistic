@@ -1,6 +1,6 @@
 # probabilistic
 
-A new Python project.
+Python Probablistic work.
 
 ## Setup
 
